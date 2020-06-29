@@ -1,1 +1,1 @@
-# javaee-business-systems
+# Java EE Business Systems.
